@@ -6,6 +6,8 @@ const inputBasePath = "./input";
 const outputBasePath = "./output";
 const inputFile = "00-example.txt";
 
+console.log("START\n");
+
 const line_counter = (
   (i = 0) =>
   () =>
